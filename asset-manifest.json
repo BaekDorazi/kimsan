@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kimsan/static/css/main.ddaf4505.css",
-    "main.js": "/kimsan/static/js/main.79edb107.js",
-    "static/media/image_01.png": "/kimsan/static/media/image_01.eb795e8fae2f843832f9.png",
+    "main.css": "/kimsan/static/css/main.04386500.css",
+    "main.js": "/kimsan/static/js/main.8449366b.js",
+    "static/media/image_01.png": "/kimsan/static/media/image_01.bfc0fffbf0bf1273c1f3.png",
     "static/media/image_03.png": "/kimsan/static/media/image_03.9555ef28dcb018144a0f.png",
     "static/media/image_02.png": "/kimsan/static/media/image_02.52a864c734225987e023.png",
     "static/media/image_04.png": "/kimsan/static/media/image_04.3cec08c0486c9594ccad.png",
     "index.html": "/kimsan/index.html",
-    "main.ddaf4505.css.map": "/kimsan/static/css/main.ddaf4505.css.map",
-    "main.79edb107.js.map": "/kimsan/static/js/main.79edb107.js.map"
+    "main.04386500.css.map": "/kimsan/static/css/main.04386500.css.map",
+    "main.8449366b.js.map": "/kimsan/static/js/main.8449366b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddaf4505.css",
-    "static/js/main.79edb107.js"
+    "static/css/main.04386500.css",
+    "static/js/main.8449366b.js"
   ]
 }
