@@ -1,0 +1,40 @@
+.header-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background: #fff;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: #000 1px solid;
+  padding: 0 150px;
+
+  .logo {
+    width: auto;
+    height: auto;
+  }
+
+  .right-image {
+    width: auto;
+    height: auto;
+  }
+
+  @media (max-width: 990px) {
+    & {
+      height: 70px;
+      padding: 0 50px;
+
+      .logo {
+        width: auto;
+        height: auto;
+      }
+
+      .right-image {
+        width: auto;
+        height: auto;
+      }
+    }
+  }
+}

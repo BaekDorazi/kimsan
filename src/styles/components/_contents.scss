@@ -1,0 +1,29 @@
+.contents-container {
+  .is-web {
+    text-align: center;
+  }
+
+  .is-mobile {
+    display: none;
+  }
+
+  .image-size {
+    width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 990px) {
+    & {
+      .is-web {
+        display: none;
+      }
+
+      .is-mobile {
+        width: 100%;
+        height: auto;
+        display: flex;
+        text-align: center;
+      }
+    }
+  }
+}
