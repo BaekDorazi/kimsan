@@ -2,7 +2,7 @@ import React, {useCallback} from "react";
 import {Swiper, SwiperSlide} from 'swiper/react';
 import {Pagination} from "swiper";
 
-import image1 from "../../../react-election/src/image/image_01.png";
+import image1 from "../image/image_01.png";
 import image2 from "../image/image_02.png";
 import image3 from "../image/image_03.png";
 import image4 from "../image/image_04.png";
